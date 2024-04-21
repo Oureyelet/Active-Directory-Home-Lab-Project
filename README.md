@@ -8,13 +8,13 @@ This project aims to build a home lab environment to learn and practice Microsof
 Active Directory: Set up a fully functional on-premises Active Directory domain controller.
 Security Integration: Integrate Splunk (Security Information and Event Management) with Kali Linux and Atomic Red Team for security analysis and attack simulation. This will allow you to explore how a domain environment works, ingest security events into SIEM, and generate simulated attack telemetry.
 
-Benefits:
+<b>Benefits:</b>
 
 Gain hands-on experience with Active Directory management.
 Learn how to integrate security tools for threat detection and analysis.
 Understand how Active Directory interacts with security measures.
 
-Next Steps:
+<b>Next Steps:</b>
 
 Environment Setup: Install and configure VirtualBox.
 Active Directory Deployment: Set up a Windows Server VM and promote it to a domain controller.
