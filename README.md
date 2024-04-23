@@ -3,18 +3,33 @@ Setting up an Active Directory (home lab) that includes Splunk, Kali Linux &amp;
 
 This project aims to build a home lab environment to learn and practice Microsoft Active Directory (AD). It will utilize virtual machines (VMs) running on VirtualBox to create a simulated domain network.
 
-<b>Goals:</b>
+<hr>
+
+Table of Contents
+<ul>
+    <li><a href="#Goals"><p>Goals</p></a></li>
+    <li><a href="#Benefits"><p>Benefits</p></a></li>
+    <li><a href="#Next"><p>Next Steps</p></a></li>
+</ul>
+
+<hr>
+
+<b id="Goals">Goals:</b>
 
 Active Directory: Set up a fully functional on-premises Active Directory domain controller.
 Security Integration: Integrate Splunk (Security Information and Event Management) with Kali Linux and Atomic Red Team for security analysis and attack simulation. This will allow you to explore how a domain environment works, ingest security events into SIEM, and generate simulated attack telemetry.
 
-<b>Benefits:</b>
+<hr>
+
+<b id="Benefits">Benefits:</b>
 
 Gain hands-on experience with Active Directory management.
 Learn how to integrate security tools for threat detection and analysis.
 Understand how Active Directory interacts with security measures.
 
-<b>Next Steps:</b>
+<hr>
+
+<b id="Next">Next Steps:</b>
 
 Environment Setup: Install and configure VirtualBox.
 Active Directory Deployment: Set up a Windows Server VM and promote it to a domain controller.
