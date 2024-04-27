@@ -17,7 +17,7 @@ Table of Contents
 <b id="Goals">Goals:</b>
 
 Active Directory: Set up a fully functional on-premises Active Directory domain controller.
-Security Integration: Integrate Splunk (Security Information and Event Management) with Kali Linux and Atomic Red Team for security analysis and attack simulation. This will allow you to explore how a domain environment works, ingest security events into SIEM, and generate simulated attack telemetry.
+Security Integration: Integrate Splunk (Security Information and Event Management) with Kali Linux and Atomic Red Team for security analysis and attack simulation. This will allow me to explore how a domain environment works, ingest security events into SIEM, and generate simulated attack telemetry.
 
 <hr>
 
