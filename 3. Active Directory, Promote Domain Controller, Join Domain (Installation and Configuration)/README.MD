@@ -18,8 +18,6 @@ allowing it to be managed centrally and to access resources like shared files, p
 applications that are controlled by the domain. When a computer joins a domain, it becomes a 
 member of that domain and is subject to its security policies and administrative controls.</b>
 
-![image](https://github.com/Oureyelet/Active-Directory-Home-Lab-Project/assets/69697624/d81c9279-75b3-42da-9f4e-e9b38e5c2a0c)
-
 <hr>
 
 <b>First of all we need to set-up static IP adress and we can check our IP in 
